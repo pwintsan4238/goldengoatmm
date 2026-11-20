@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 // GitHub Pages serves this repository at /Golden-Goat-Myanmar.
-const basePath = "/Golden-Goat-Myanmar";
+const basePath = "";
 
 const nextConfig: NextConfig = {
   // Static HTML export to ./out for GitHub Pages (no Node server, so no proxy or image optimisation).
